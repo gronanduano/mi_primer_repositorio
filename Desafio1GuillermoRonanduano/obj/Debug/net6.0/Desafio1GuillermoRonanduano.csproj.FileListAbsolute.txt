@@ -1,0 +1,15 @@
+C:\CoderHouse\Desafio1GuillermoRonanduano\Desafio1GuillermoRonanduano\obj\Debug\net6.0\Desafio1GuillermoRonanduano.csproj.AssemblyReference.cache
+C:\CoderHouse\Desafio1GuillermoRonanduano\Desafio1GuillermoRonanduano\obj\Debug\net6.0\Desafio1GuillermoRonanduano.GeneratedMSBuildEditorConfig.editorconfig
+C:\CoderHouse\Desafio1GuillermoRonanduano\Desafio1GuillermoRonanduano\obj\Debug\net6.0\Desafio1GuillermoRonanduano.AssemblyInfoInputs.cache
+C:\CoderHouse\Desafio1GuillermoRonanduano\Desafio1GuillermoRonanduano\obj\Debug\net6.0\Desafio1GuillermoRonanduano.AssemblyInfo.cs
+C:\CoderHouse\Desafio1GuillermoRonanduano\Desafio1GuillermoRonanduano\obj\Debug\net6.0\Desafio1GuillermoRonanduano.csproj.CoreCompileInputs.cache
+C:\CoderHouse\Desafio1GuillermoRonanduano\Desafio1GuillermoRonanduano\bin\Debug\net6.0\Desafio1GuillermoRonanduano.exe
+C:\CoderHouse\Desafio1GuillermoRonanduano\Desafio1GuillermoRonanduano\bin\Debug\net6.0\Desafio1GuillermoRonanduano.deps.json
+C:\CoderHouse\Desafio1GuillermoRonanduano\Desafio1GuillermoRonanduano\bin\Debug\net6.0\Desafio1GuillermoRonanduano.runtimeconfig.json
+C:\CoderHouse\Desafio1GuillermoRonanduano\Desafio1GuillermoRonanduano\bin\Debug\net6.0\Desafio1GuillermoRonanduano.dll
+C:\CoderHouse\Desafio1GuillermoRonanduano\Desafio1GuillermoRonanduano\bin\Debug\net6.0\Desafio1GuillermoRonanduano.pdb
+C:\CoderHouse\Desafio1GuillermoRonanduano\Desafio1GuillermoRonanduano\obj\Debug\net6.0\Desafio1GuillermoRonanduano.dll
+C:\CoderHouse\Desafio1GuillermoRonanduano\Desafio1GuillermoRonanduano\obj\Debug\net6.0\refint\Desafio1GuillermoRonanduano.dll
+C:\CoderHouse\Desafio1GuillermoRonanduano\Desafio1GuillermoRonanduano\obj\Debug\net6.0\Desafio1GuillermoRonanduano.pdb
+C:\CoderHouse\Desafio1GuillermoRonanduano\Desafio1GuillermoRonanduano\obj\Debug\net6.0\Desafio1GuillermoRonanduano.genruntimeconfig.cache
+C:\CoderHouse\Desafio1GuillermoRonanduano\Desafio1GuillermoRonanduano\obj\Debug\net6.0\ref\Desafio1GuillermoRonanduano.dll
